@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a passionate developer with an eagerness to 
 
 ### 🔍 About Me
 - 🎓 **Background**: I'm a student/developer with a focus on Information Technology, web development, software development.
-- 💡 **Interests**: I have a keen interest in AI, web development, open-source contributions and I enjoy exploring new tools and technologies to expand my skill set.
+- 💡 **Interests**: I have a keen interest in AI, web development, computer hardware and maintenance, networking, open-source contributions and I enjoy exploring new tools and technologies to expand my skill set.
 - 🌍 **Location**: Based in Kiambu, Thika, always ready to connect globally.
 
 ### 💼 What I Do
