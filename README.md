@@ -11,8 +11,9 @@ Welcome to my GitHub profile! I’m a passionate developer with an eagerness to 
 - 🌱 **Currently Learning**: I’m working on mastering C# and building projects to strengthen my skills.
 - 👨‍💻 **Favorite Stack**:
   - **Languages**: C, C++, C#, HTML, CSS, JavaScript, PHP.
-  - **Frameworks & Libraries**: Laravel, Bootstrap, ASP.NET Core, ASP.NET MVC
-  - **Tools**: Git, VS Code
+  - **Frameworks & Libraries**: Laravel, Bootstrap, ASP.NET Core, ASP.NET MVC.
+  - **Tools**: Git, VS Code.
+  - **Database**: MySQL, SQL Server.
 
 ### 🌟 Projects and Collaborations
 I'm always open to collaboration! Here are a few types of projects I’m particularly interested in:
