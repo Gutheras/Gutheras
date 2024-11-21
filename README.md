@@ -29,7 +29,7 @@ You can get in touch with me via:
 ### 🎯 Goals and Aspirations
 In the next few months, I’m aiming to:
 - Contribute to open-source projects, specifically in web development and mobile.
-- Build a personal portfolio site showcasing my work.
+- Build a diverse range of projects to expand my skills and portfolio.
 - Gain deeper insights into .net framework.
 
 ### ⚡ Fun Facts
