@@ -23,8 +23,8 @@ I'm always open to collaboration! Here are a few types of projects I’m particu
 
 ### 📫 How to Reach Me
 You can get in touch with me via:
-- **Email**: gamaliel.codes@gmail.com
-- **LinkedIn**: 
+- **Email**: gamalielgachanga58@gmail.com
+- **LinkedIn**: www.linkedin.com/in/gamaliel-gachanga-521324311
 
 ### 🎯 Goals and Aspirations
 In the next few months, I’m aiming to:
