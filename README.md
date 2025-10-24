@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I’m a passionate developer with an eagerness to 
 - 👨‍💻 **Favorite Stack**:
   - **Languages**: C, C++, C#, HTML, CSS, JavaScript, PHP.
   - **Frameworks & Libraries**: Laravel, Bootstrap, ASP.NET Core, ASP.NET MVC.
-  - **Tools**: Git, VS Code.
+  - **Tools**: Git, VS Code, Visual Studio.
   - **Database**: MySQL, SQL Server.
 
 ### 🌟 Projects and Collaborations
@@ -36,8 +36,8 @@ In the next few months, I’m aiming to:
 - 🎨 I have a soft spot for Boostrap CSS — it makes designing beautiful UIs so much easier and responsive.
 - 💻 I love using Visual Studio, VS Code and customizing them with different themes and plugins.
 - 🎸 Outside of coding, I enjoy listening to music, playing the guitar.
-- 🌱 I’m always on the lookout for new things to learn, whether it’s a new coding language, framework, or a skill outside of tech.
+- 🌱 I’m always on the lookout for new things to learn, whether it’s a new coding language, framework or a skill outside of tech.
 
 ---
-Thank you for visiting my profile! Feel free to explore my repositories, give feedback, or reach out if you're interested in collaborating on a project. Let’s make something awesome together!
+Thank you for visiting my profile! Feel free to explore my repositories, give feedback or reach out if you're interested in collaborating on a project. Let’s make something awesome together!
 
